@@ -1,3 +1,5 @@
+This codebase has developed into a new project that is well-maintained and includes more SOTA methods. Please refer to [PyCIL: A Python Toolbox for Class-Incremental Learning](https://github.com/G-U-N/PyCIL) for more information.
+
 # Implementation of continual learning methods
 This repository implements some continual / incremental / lifelong learning methods by PyTorch.
 
